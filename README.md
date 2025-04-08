@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jordantimberlake" alt="jordantimberlake" /></a> </p>
 
-- 🔭 I’m currently working on [Autonomous-Car-Vision](https://github.com/COS301-SE-2024/Autonomous-Car-Vision)
+- 🔭 I’m currently working at EPI-USE Africa (Pty) Ltd.
 
-- 🌱 I’m currently learning **Electron, Svelte, Nuxt, Django, Postgres, Tensorflow, PyTorch**
+- 🌱 I’m currently learning **SAP**
 
-- 💬 Ask me about **react, vue**
+- 💬 Ask me about **React, Vue, Next.js**
 
 - 📫 How to reach me **jordtimberlake@gmail.com**
 
@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://dev.to/jordantimberlake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jordantimberlake" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jordan-timberlake/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordantimberlake" height="30" width="40" /></a>
-<a href="https://www.facebook.com/jordan.timberlake.01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jordan timberlake" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
