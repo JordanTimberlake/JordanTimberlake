@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jordan Timberlake</h1>
-<h3 align="center">A passionate final year Computer Science Student at the University of Pretoria</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jordantimberlake" alt="jordantimberlake" /></a> </p>
-
 - 🔭 I’m currently working at EPI-USE Africa (Pty) Ltd.
 
 - 🌱 I’m currently learning **SAP**
